@@ -1,0 +1,13 @@
+name = "Aladodo Maryam"
+email = "aladodomaryam13@gmail.com"
+slack = "@Aladodo"
+Twitter = "@aladodomaryam"
+biostack = "vaccine informatics"
+
+print("My name is Aladodo Maryam ")
+
+print ('My email address is aladodomaryam13@gmail.com')
+
+print ("My slack name is @Aladodo")
+
+print ("My biostack of choice is vaccine informatics")
